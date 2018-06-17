@@ -1,0 +1,7150 @@
+[
+  {
+    "geoloc": {
+      "lat": 48.342,
+      "lng": 14.3075
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Aichinger"
+  },
+  {
+    "geoloc": {
+      "lat": 48.327,
+      "lng": 14.279
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Aichwiesen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.327,
+      "lng": 14.279
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Aichwiesen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2963,
+      "lng": 14.2692
+    },
+    "line": [
+      "L026"
+    ],
+    "type": "station",
+    "name": "Aloisianum"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2963,
+      "lng": 14.2692
+    },
+    "line": [
+      "L026"
+    ],
+    "type": "station",
+    "name": "Aloisianum"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3295,
+      "lng": 14.3177
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Altenberger Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3295,
+      "lng": 14.3177
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Altenberger Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3295,
+      "lng": 14.3177
+    },
+    "line": [
+      "L077"
+    ],
+    "type": "station",
+    "name": "Altenberger Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3295,
+      "lng": 14.3177
+    },
+    "line": [
+      "L077"
+    ],
+    "type": "station",
+    "name": "Altenberger Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3306,
+      "lng": 14.2731
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Am Bachlberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3306,
+      "lng": 14.2731
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Am Bachlberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2723,
+      "lng": 14.2926
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Am Bindermichl"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2723,
+      "lng": 14.2926
+    },
+    "line": [
+      "L025",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Am Bindermichl"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2723,
+      "lng": 14.2926
+    },
+    "line": [
+      "L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Am Bindermichl"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3372,
+      "lng": 14.3041
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Am Sonnenhang"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3372,
+      "lng": 14.3041
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Am Sonnenhang"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3153,
+      "lng": 14.2744
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Aubergstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3153,
+      "lng": 14.2744
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Aubergstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.237,
+      "lng": 14.3436
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Auergütlweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.237,
+      "lng": 14.3436
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Auergütlweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2979,
+      "lng": 14.2877
+    },
+    "line": [
+      "L045",
+      " L046"
+    ],
+    "type": "station",
+    "name": "Auerspergplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2979,
+      "lng": 14.2877
+    },
+    "line": [
+      "L045",
+      " L046"
+    ],
+    "type": "station",
+    "name": "Auerspergplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2979,
+      "lng": 14.2877
+    },
+    "line": [
+      "L070",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Auerspergplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2979,
+      "lng": 14.2877
+    },
+    "line": [
+      "L073"
+    ],
+    "type": "station",
+    "name": "Auerspergplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2527,
+      "lng": 14.355
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Aumüllerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2527,
+      "lng": 14.355
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Aumüllerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2488,
+      "lng": 14.3082
+    },
+    "line": [
+      "L012"
+    ],
+    "type": "station",
+    "name": "Auwiesen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2488,
+      "lng": 14.3082
+    },
+    "line": [
+      "L001"
+    ],
+    "type": "station",
+    "name": "Auwiesen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3285,
+      "lng": 14.276
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Bachlbergweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3285,
+      "lng": 14.276
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Bachlbergweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2521,
+      "lng": 14.3476
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Bahnhof Ebelsberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2521,
+      "lng": 14.3476
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Bahnhof Ebelsberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2521,
+      "lng": 14.3476
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Bahnhof Ebelsberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2521,
+      "lng": 14.3476
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Bahnhof Ebelsberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2573,
+      "lng": 14.3258
+    },
+    "line": [
+      "L018"
+    ],
+    "type": "station",
+    "name": "Bahnhof Kleinmünchen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2573,
+      "lng": 14.3258
+    },
+    "line": [
+      "L018"
+    ],
+    "type": "station",
+    "name": "Bahnhof Kleinmünchen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2403,
+      "lng": 14.2816
+    },
+    "line": [
+      "L041"
+    ],
+    "type": "station",
+    "name": "Baintwiese"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2403,
+      "lng": 14.2816
+    },
+    "line": [
+      "L073"
+    ],
+    "type": "station",
+    "name": "Baintwiese"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2403,
+      "lng": 14.2816
+    },
+    "line": [
+      "L071"
+    ],
+    "type": "station",
+    "name": "Baintwiese"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2497,
+      "lng": 14.2696
+    },
+    "line": [
+      "L043",
+      " L070"
+    ],
+    "type": "station",
+    "name": "Bannerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2497,
+      "lng": 14.2696
+    },
+    "line": [
+      "L043",
+      " L070"
+    ],
+    "type": "station",
+    "name": "Bannerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3288,
+      "lng": 14.3097
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Baumgärtelstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3288,
+      "lng": 14.3097
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Baumgärtelstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2739,
+      "lng": 14.3239
+    },
+    "line": [
+      "L018"
+    ],
+    "type": "station",
+    "name": "Betriebsgebäude 02"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2739,
+      "lng": 14.3239
+    },
+    "line": [
+      "L018"
+    ],
+    "type": "station",
+    "name": "Betriebsgebäude 02"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2728,
+      "lng": 14.34
+    },
+    "line": [
+      "L018"
+    ],
+    "type": "station",
+    "name": "Betriebsgebäude 34"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2728,
+      "lng": 14.34
+    },
+    "line": [
+      "L018"
+    ],
+    "type": "station",
+    "name": "Betriebsgebäude 34"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2778,
+      "lng": 14.3221
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Betriebsgebäude 41"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2778,
+      "lng": 14.3221
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Betriebsgebäude 41"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2751,
+      "lng": 14.3218
+    },
+    "line": [
+      "L018",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Betriebsgebäude 47"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2751,
+      "lng": 14.3218
+    },
+    "line": [
+      "L018",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Betriebsgebäude 47"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2491,
+      "lng": 14.3661
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Biberweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2491,
+      "lng": 14.3661
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Biberweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3127,
+      "lng": 14.282
+    },
+    "line": [
+      "L003",
+      " L050"
+    ],
+    "type": "station",
+    "name": "Biegung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3127,
+      "lng": 14.282
+    },
+    "line": [
+      "L003",
+      " L050"
+    ],
+    "type": "station",
+    "name": "Biegung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3127,
+      "lng": 14.282
+    },
+    "line": [
+      "L033",
+      " L038",
+      " L102"
+    ],
+    "type": "station",
+    "name": "Biegung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3127,
+      "lng": 14.282
+    },
+    "line": [
+      "L033",
+      " L038",
+      " L102"
+    ],
+    "type": "station",
+    "name": "Biegung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2454,
+      "lng": 14.2836
+    },
+    "line": [
+      "L041",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Binderlandweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2454,
+      "lng": 14.2836
+    },
+    "line": [
+      "L041",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Binderlandweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2942,
+      "lng": 14.294
+    },
+    "line": [
+      "L027",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Blumauerplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2942,
+      "lng": 14.294
+    },
+    "line": [
+      "L027",
+      " L077"
+    ],
+    "type": "station",
+    "name": "Blumauerplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2942,
+      "lng": 14.294
+    },
+    "line": [
+      "L070",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Blumauerplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2961,
+      "lng": 14.2976
+    },
+    "line": [
+      "L073"
+    ],
+    "type": "station",
+    "name": "Blumauerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2961,
+      "lng": 14.2976
+    },
+    "line": [
+      "L027",
+      " L077"
+    ],
+    "type": "station",
+    "name": "Blumauerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2943,
+      "lng": 14.2744
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Botanischer Garten"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2943,
+      "lng": 14.2744
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Botanischer Garten"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3219,
+      "lng": 14.2936
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Broschgasse"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3219,
+      "lng": 14.2936
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Broschgasse"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3105,
+      "lng": 14.2946
+    },
+    "line": [
+      "L026"
+    ],
+    "type": "station",
+    "name": "Brucknerhaus"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3105,
+      "lng": 14.2946
+    },
+    "line": [
+      "L026"
+    ],
+    "type": "station",
+    "name": "Brucknerhaus"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2849,
+      "lng": 14.3028
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Bulgariplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2849,
+      "lng": 14.3028
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Bulgariplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2986,
+      "lng": 14.2914
+    },
+    "line": [
+      "L001",
+      " L002",
+      " L003"
+    ],
+    "type": "station",
+    "name": "Bürgerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2986,
+      "lng": 14.2914
+    },
+    "line": [
+      "L001",
+      " L002",
+      " L003"
+    ],
+    "type": "station",
+    "name": "Bürgerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2878,
+      "lng": 14.3222
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Chemiepark"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2878,
+      "lng": 14.3222
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Chemiepark"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3024,
+      "lng": 14.3072
+    },
+    "line": [
+      "L045"
+    ],
+    "type": "station",
+    "name": "Darrgutstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3024,
+      "lng": 14.3072
+    },
+    "line": [
+      "L045"
+    ],
+    "type": "station",
+    "name": "Darrgutstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2529,
+      "lng": 14.3141
+    },
+    "line": [
+      "L001"
+    ],
+    "type": "station",
+    "name": "Dauphinestraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2529,
+      "lng": 14.3141
+    },
+    "line": [
+      "L001"
+    ],
+    "type": "station",
+    "name": "Dauphinestraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2744,
+      "lng": 14.3111
+    },
+    "line": [
+      "L103"
+    ],
+    "type": "station",
+    "name": "Deutlweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3197,
+      "lng": 14.2773
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Dießenleitenweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3197,
+      "lng": 14.2773
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Dießenleitenweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.298,
+      "lng": 14.2986
+    },
+    "line": [
+      "L012",
+      " L017",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Dinghoferstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.298,
+      "lng": 14.2986
+    },
+    "line": [
+      "L012",
+      " L017",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Dinghoferstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.298,
+      "lng": 14.2986
+    },
+    "line": [
+      "L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Dinghoferstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.291,
+      "lng": 14.3175
+    },
+    "line": [
+      "L025",
+      " L027"
+    ],
+    "type": "station",
+    "name": "Don Bosco"
+  },
+  {
+    "geoloc": {
+      "lat": 48.291,
+      "lng": 14.3175
+    },
+    "line": [
+      "L025",
+      " L027"
+    ],
+    "type": "station",
+    "name": "Don Bosco"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3038,
+      "lng": 14.2722
+    },
+    "line": [
+      "L026",
+      " L192"
+    ],
+    "type": "station",
+    "name": "Donautal"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3038,
+      "lng": 14.2722
+    },
+    "line": [
+      "L026",
+      " L192"
+    ],
+    "type": "station",
+    "name": "Donautal"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3318,
+      "lng": 14.2719
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Donnererweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3318,
+      "lng": 14.2719
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Donnererweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3319,
+      "lng": 14.3128
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Dornach"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3319,
+      "lng": 14.3128
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Dornach"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2435,
+      "lng": 14.3671
+    },
+    "line": [
+      "L011",
+      " L019",
+      " L105"
+    ],
+    "type": "station",
+    "name": "Drosselweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2435,
+      "lng": 14.3671
+    },
+    "line": [
+      "L011",
+      " L019",
+      " L105"
+    ],
+    "type": "station",
+    "name": "Drosselweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.254,
+      "lng": 14.3177
+    },
+    "line": [
+      "L001"
+    ],
+    "type": "station",
+    "name": "Dürerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.254,
+      "lng": 14.3177
+    },
+    "line": [
+      "L001"
+    ],
+    "type": "station",
+    "name": "Dürerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.254,
+      "lng": 14.3177
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Dürerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.254,
+      "lng": 14.3177
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Dürerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2459,
+      "lng": 14.3278
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Ebelsberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2459,
+      "lng": 14.3278
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Ebelsberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2459,
+      "lng": 14.3278
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Ebelsberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2459,
+      "lng": 14.3278
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Ebelsberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2405,
+      "lng": 14.3318
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Edmund-Aigner-Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2405,
+      "lng": 14.3318
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Edmund-Aigner-Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2545,
+      "lng": 14.281
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Eduard-Sueß-Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3069,
+      "lng": 14.3287
+    },
+    "line": [
+      "L017",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Ehrentletzbergerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3069,
+      "lng": 14.3287
+    },
+    "line": [
+      "L017"
+    ],
+    "type": "station",
+    "name": "Ehrentletzbergerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2652,
+      "lng": 14.2881
+    },
+    "line": [
+      "L012",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Eichendorffstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2652,
+      "lng": 14.2881
+    },
+    "line": [
+      "L012",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Eichendorffstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3185,
+      "lng": 14.2578
+    },
+    "line": [
+      "L050"
+    ],
+    "type": "station",
+    "name": "Einschnitt"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3151,
+      "lng": 14.3118
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Eisenhof"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3151,
+      "lng": 14.3118
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Eisenhof"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2765,
+      "lng": 14.3051
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Eisenwerkstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2765,
+      "lng": 14.3051
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Eisenwerkstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2536,
+      "lng": 14.3049
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Enenkelstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2536,
+      "lng": 14.3049
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Enenkelstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.243,
+      "lng": 14.3377
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Ennsfeld"
+  },
+  {
+    "geoloc": {
+      "lat": 48.243,
+      "lng": 14.3377
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Ennsfeld"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3263,
+      "lng": 14.3379
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Esterbachbrücke"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3263,
+      "lng": 14.3379
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Esterbachbrücke"
+  },
+  {
+    "geoloc": {
+      "lat": 48.299,
+      "lng": 14.303
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Europaplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.299,
+      "lng": 14.303
+    },
+    "line": [
+      "L012",
+      " L017",
+      " L019",
+      " L077"
+    ],
+    "type": "station",
+    "name": "Europaplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.299,
+      "lng": 14.303
+    },
+    "line": [
+      "L017",
+      " L019",
+      " L073",
+      " L077"
+    ],
+    "type": "station",
+    "name": "Europaplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.299,
+      "lng": 14.303
+    },
+    "line": [
+      "L012",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Europaplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2646,
+      "lng": 14.2824
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Europastraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2646,
+      "lng": 14.2824
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Europastraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3065,
+      "lng": 14.3207
+    },
+    "line": [
+      "L017",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Fa. Plasser"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3065,
+      "lng": 14.3207
+    },
+    "line": [
+      "L017"
+    ],
+    "type": "station",
+    "name": "Fa. Plasser"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3018,
+      "lng": 14.2941
+    },
+    "line": [
+      "L045",
+      " L046",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Fadingerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2513,
+      "lng": 14.3594
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Falterweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2513,
+      "lng": 14.3594
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Falterweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3341,
+      "lng": 14.2967
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Ferdinand Markl Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3341,
+      "lng": 14.2967
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Ferdinand Markl Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2986,
+      "lng": 14.3228
+    },
+    "line": [
+      "L017",
+      " L027",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Fernheizkraftwerk"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2986,
+      "lng": 14.3228
+    },
+    "line": [
+      "L019"
+    ],
+    "type": "station",
+    "name": "Fernheizkraftwerk"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2436,
+      "lng": 14.3322
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Florianer Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2436,
+      "lng": 14.3322
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Florianer Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2436,
+      "lng": 14.3322
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Florianer Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2436,
+      "lng": 14.3322
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Florianer Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2536,
+      "lng": 14.3087
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Flötzerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2536,
+      "lng": 14.3087
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Flötzerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2679,
+      "lng": 14.3401
+    },
+    "line": [
+      "L018"
+    ],
+    "type": "station",
+    "name": "FMA"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2679,
+      "lng": 14.3401
+    },
+    "line": [
+      "L018"
+    ],
+    "type": "station",
+    "name": "FMA"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2927,
+      "lng": 14.3055
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Frachtenbahnhof"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2927,
+      "lng": 14.3055
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Frachtenbahnhof"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2966,
+      "lng": 14.3073
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Franckstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2966,
+      "lng": 14.3073
+    },
+    "line": [
+      "L025",
+      " L027"
+    ],
+    "type": "station",
+    "name": "Franckstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2966,
+      "lng": 14.3073
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Franckstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2473,
+      "lng": 14.2939
+    },
+    "line": [
+      "L071"
+    ],
+    "type": "station",
+    "name": "Franzosenhausweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2473,
+      "lng": 14.2939
+    },
+    "line": [
+      "L073"
+    ],
+    "type": "station",
+    "name": "Franzosenhausweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2985,
+      "lng": 14.2674
+    },
+    "line": [
+      "L026"
+    ],
+    "type": "station",
+    "name": "Freinberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2985,
+      "lng": 14.2674
+    },
+    "line": [
+      "L026"
+    ],
+    "type": "station",
+    "name": "Freinberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2945,
+      "lng": 14.2986
+    },
+    "line": [
+      "L027",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Friedhofstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2945,
+      "lng": 14.2986
+    },
+    "line": [
+      "L027",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Friedhofstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2921,
+      "lng": 14.2719
+    },
+    "line": [
+      "L017",
+      " L019",
+      " L026",
+      " L027"
+    ],
+    "type": "station",
+    "name": "Froschberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2921,
+      "lng": 14.2719
+    },
+    "line": [
+      "L017",
+      " L019",
+      " L026",
+      " L027"
+    ],
+    "type": "station",
+    "name": "Froschberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2921,
+      "lng": 14.2719
+    },
+    "line": [
+      "L045",
+      " L046"
+    ],
+    "type": "station",
+    "name": "Froschberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3285,
+      "lng": 14.3224
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Further Weg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3285,
+      "lng": 14.3224
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Further Weg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3178,
+      "lng": 14.3056
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Gallanderstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3178,
+      "lng": 14.3056
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Gallanderstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3055,
+      "lng": 14.3059
+    },
+    "line": [
+      "L046",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Garnisonstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3055,
+      "lng": 14.3059
+    },
+    "line": [
+      "L045"
+    ],
+    "type": "station",
+    "name": "Garnisonstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3055,
+      "lng": 14.3059
+    },
+    "line": [
+      "L045",
+      " L046",
+      " L070",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Garnisonstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2853,
+      "lng": 14.2848
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Ghegastraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3327,
+      "lng": 14.3088
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Glaserstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3327,
+      "lng": 14.3088
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Glaserstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2748,
+      "lng": 14.3071
+    },
+    "line": [
+      "L103"
+    ],
+    "type": "station",
+    "name": "Glimpfingerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2962,
+      "lng": 14.2919
+    },
+    "line": [
+      "L012",
+      " L017",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Goethekreuzung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2962,
+      "lng": 14.2919
+    },
+    "line": [
+      "L001",
+      " L002",
+      " L003"
+    ],
+    "type": "station",
+    "name": "Goethekreuzung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2962,
+      "lng": 14.2919
+    },
+    "line": [
+      "L001",
+      " L002",
+      " L003"
+    ],
+    "type": "station",
+    "name": "Goethekreuzung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2962,
+      "lng": 14.2919
+    },
+    "line": [
+      "L012",
+      " L017",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Goethekreuzung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3034,
+      "lng": 14.3003
+    },
+    "line": [
+      "L045",
+      " L046",
+      " L070",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Gruberstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3034,
+      "lng": 14.3003
+    },
+    "line": [
+      "L045",
+      " L046",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Gruberstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3034,
+      "lng": 14.3003
+    },
+    "line": [
+      "L012",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Gruberstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3034,
+      "lng": 14.3003
+    },
+    "line": [
+      "L012",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Gruberstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3324,
+      "lng": 14.2902
+    },
+    "line": [
+      "L038"
+    ],
+    "type": "station",
+    "name": "Gründberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3324,
+      "lng": 14.2902
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Gründberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3324,
+      "lng": 14.2902
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Gründberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3324,
+      "lng": 14.2902
+    },
+    "line": [
+      "L038"
+    ],
+    "type": "station",
+    "name": "Gründberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3099,
+      "lng": 14.3144
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Hafen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3099,
+      "lng": 14.3144
+    },
+    "line": [
+      "L046"
+    ],
+    "type": "station",
+    "name": "Hafen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3099,
+      "lng": 14.3144
+    },
+    "line": [
+      "L073"
+    ],
+    "type": "station",
+    "name": "Hafen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3099,
+      "lng": 14.3144
+    },
+    "line": [
+      "L070",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Hafen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3099,
+      "lng": 14.3144
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Hafen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3106,
+      "lng": 14.2676
+    },
+    "line": [
+      "L050"
+    ],
+    "type": "station",
+    "name": "Hagen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3106,
+      "lng": 14.2676
+    },
+    "line": [
+      "L050"
+    ],
+    "type": "station",
+    "name": "Hagen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2914,
+      "lng": 14.2999
+    },
+    "line": [
+      "L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Hamerlingstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2858,
+      "lng": 14.2803
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Hanriederstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2858,
+      "lng": 14.2803
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Hanriederstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2839,
+      "lng": 14.2918
+    },
+    "line": [
+      "L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Hanuschstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2839,
+      "lng": 14.2918
+    },
+    "line": [
+      "L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Hanuschstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3269,
+      "lng": 14.2847
+    },
+    "line": [
+      "L038"
+    ],
+    "type": "station",
+    "name": "Harbach"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3269,
+      "lng": 14.2847
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Harbach"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3269,
+      "lng": 14.2847
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Harbach"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3269,
+      "lng": 14.2847
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Harbach"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3269,
+      "lng": 14.2847
+    },
+    "line": [
+      "L038",
+      " L102"
+    ],
+    "type": "station",
+    "name": "Harbach"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3297,
+      "lng": 14.2877
+    },
+    "line": [
+      "L038"
+    ],
+    "type": "station",
+    "name": "Harbachsiedlung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3297,
+      "lng": 14.2877
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Harbachsiedlung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3297,
+      "lng": 14.2877
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Harbachsiedlung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3297,
+      "lng": 14.2877
+    },
+    "line": [
+      "L038"
+    ],
+    "type": "station",
+    "name": "Harbachsiedlung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.321,
+      "lng": 14.2831
+    },
+    "line": [
+      "L038"
+    ],
+    "type": "station",
+    "name": "Harruckerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.321,
+      "lng": 14.2831
+    },
+    "line": [
+      "L038"
+    ],
+    "type": "station",
+    "name": "Harruckerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2408,
+      "lng": 14.3346
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Hartheimer Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2408,
+      "lng": 14.3346
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Hartheimer Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2408,
+      "lng": 14.3346
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Hartheimer Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2408,
+      "lng": 14.3346
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Hartheimer Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2749,
+      "lng": 14.2933
+    },
+    "line": [
+      "L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Hatschekstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2749,
+      "lng": 14.2933
+    },
+    "line": [
+      "L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Hatschekstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2436,
+      "lng": 14.3288
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Hauderweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2436,
+      "lng": 14.3288
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Hauderweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2436,
+      "lng": 14.3288
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Hauderweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2436,
+      "lng": 14.3288
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Hauderweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.291,
+      "lng": 14.2914
+    },
+    "line": [
+      "L012",
+      " L017",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Hauptbahnhof"
+  },
+  {
+    "geoloc": {
+      "lat": 48.291,
+      "lng": 14.2914
+    },
+    "line": [
+      "L001",
+      " L002",
+      " L003"
+    ],
+    "type": "station",
+    "name": "Hauptbahnhof"
+  },
+  {
+    "geoloc": {
+      "lat": 48.291,
+      "lng": 14.2914
+    },
+    "line": [
+      "L001",
+      " L002",
+      " L003"
+    ],
+    "type": "station",
+    "name": "Hauptbahnhof"
+  },
+  {
+    "geoloc": {
+      "lat": 48.292,
+      "lng": 14.2923
+    },
+    "line": [
+      "L046"
+    ],
+    "type": "station",
+    "name": "Hauptbahnhof/Busterminal"
+  },
+  {
+    "geoloc": {
+      "lat": 48.292,
+      "lng": 14.2923
+    },
+    "line": [
+      "L077"
+    ],
+    "type": "station",
+    "name": "Hauptbahnhof/Busterminal"
+  },
+  {
+    "geoloc": {
+      "lat": 48.292,
+      "lng": 14.2923
+    },
+    "line": [
+      "L045"
+    ],
+    "type": "station",
+    "name": "Hauptbahnhof/Busterminal"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2913,
+      "lng": 14.2903
+    },
+    "line": [
+      "L012",
+      " L017",
+      " L019",
+      " L027",
+      " L046",
+      " L070",
+      " L071",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Hauptbahnhof/Kärntnerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2913,
+      "lng": 14.2903
+    },
+    "line": [
+      "L012",
+      " L017",
+      " L019",
+      " L027",
+      " L046",
+      " L070",
+      " L071",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Hauptbahnhof/Kärntnerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3063,
+      "lng": 14.2862
+    },
+    "line": [
+      "L192"
+    ],
+    "type": "station",
+    "name": "Hauptplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3063,
+      "lng": 14.2862
+    },
+    "line": [
+      "L001",
+      " L002",
+      " L003"
+    ],
+    "type": "station",
+    "name": "Hauptplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3063,
+      "lng": 14.2862
+    },
+    "line": [
+      "L001",
+      " L002",
+      " L003"
+    ],
+    "type": "station",
+    "name": "Hauptplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3063,
+      "lng": 14.2862
+    },
+    "line": [
+      "L050"
+    ],
+    "type": "station",
+    "name": "Hauptplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2696,
+      "lng": 14.3007
+    },
+    "line": [
+      "L103"
+    ],
+    "type": "station",
+    "name": "Hausleitnerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2707,
+      "lng": 14.3056
+    },
+    "line": [
+      "L103"
+    ],
+    "type": "station",
+    "name": "Haydnstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3187,
+      "lng": 14.2923
+    },
+    "line": [
+      "L012",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Heilhamer Weg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3187,
+      "lng": 14.2923
+    },
+    "line": [
+      "L012",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Heilhamer Weg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2549,
+      "lng": 14.2776
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Helmholtzstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2549,
+      "lng": 14.2776
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Helmholtzstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2871,
+      "lng": 14.3004
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Herz-Jesu-Kirche"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2871,
+      "lng": 14.3004
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Herz-Jesu-Kirche"
+  },
+  {
+    "geoloc": {
+      "lat": 48.301,
+      "lng": 14.2938
+    },
+    "line": [
+      "L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Hessenplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.248,
+      "lng": 14.3405
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Hillerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.248,
+      "lng": 14.3405
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Hillerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.248,
+      "lng": 14.3405
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Hillerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.248,
+      "lng": 14.3405
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Hillerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3172,
+      "lng": 14.2573
+    },
+    "line": [
+      "L050"
+    ],
+    "type": "station",
+    "name": "Hoher Damm"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3036,
+      "lng": 14.3292
+    },
+    "line": [
+      "L017"
+    ],
+    "type": "station",
+    "name": "Hollabererstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3036,
+      "lng": 14.3292
+    },
+    "line": [
+      "L017",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Hollabererstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3113,
+      "lng": 14.3029
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Holzstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3113,
+      "lng": 14.3029
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Holzstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2993,
+      "lng": 14.2813
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Hopfengasse"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2993,
+      "lng": 14.2813
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Hopfengasse"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3177,
+      "lng": 14.2795
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Hörschingergutstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3177,
+      "lng": 14.2795
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Hörschingergutstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2592,
+      "lng": 14.2906
+    },
+    "line": [
+      "L012",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Hörzingerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2592,
+      "lng": 14.2906
+    },
+    "line": [
+      "L012",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Hörzingerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2972,
+      "lng": 14.2956
+    },
+    "line": [
+      "L012",
+      " L017",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Humboldtstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2972,
+      "lng": 14.2956
+    },
+    "line": [
+      "L012",
+      " L017",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Humboldtstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2972,
+      "lng": 14.2956
+    },
+    "line": [
+      "L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Humboldtstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2503,
+      "lng": 14.2879
+    },
+    "line": [
+      "L041",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Im Haidgattern"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2503,
+      "lng": 14.2879
+    },
+    "line": [
+      "L041",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Im Haidgattern"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2525,
+      "lng": 14.293
+    },
+    "line": [
+      "L011",
+      " L012",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Im Hütterland"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2525,
+      "lng": 14.293
+    },
+    "line": [
+      "L011",
+      " L012",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Im Hütterland"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3304,
+      "lng": 14.3028
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Im Schlantenfeld"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3304,
+      "lng": 14.3028
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Im Schlantenfeld"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3033,
+      "lng": 14.3184
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Industriezeile"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3033,
+      "lng": 14.3184
+    },
+    "line": [
+      "L017",
+      " L019",
+      " L070",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Industriezeile"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3033,
+      "lng": 14.3184
+    },
+    "line": [
+      "L017",
+      " L019",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Industriezeile"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3033,
+      "lng": 14.3184
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Industriezeile"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3468,
+      "lng": 14.2926
+    },
+    "line": [
+      "L038"
+    ],
+    "type": "station",
+    "name": "Jäger im Tal"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3003,
+      "lng": 14.267
+    },
+    "line": [
+      "L026"
+    ],
+    "type": "station",
+    "name": "Jägermayr"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3003,
+      "lng": 14.267
+    },
+    "line": [
+      "L026"
+    ],
+    "type": "station",
+    "name": "Jägermayr"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2904,
+      "lng": 14.2807
+    },
+    "line": [
+      "L017",
+      " L019",
+      " L045",
+      " L046"
+    ],
+    "type": "station",
+    "name": "Johann-Strauß-Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2904,
+      "lng": 14.2807
+    },
+    "line": [
+      "L017",
+      " L019",
+      " L045",
+      " L046"
+    ],
+    "type": "station",
+    "name": "Johann-Strauß-Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3068,
+      "lng": 14.2999
+    },
+    "line": [
+      "L012",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Kaplanhofstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3068,
+      "lng": 14.2999
+    },
+    "line": [
+      "L012",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Kaplanhofstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.262,
+      "lng": 14.2901
+    },
+    "line": [
+      "L012",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Kaplitzstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.262,
+      "lng": 14.2901
+    },
+    "line": [
+      "L012",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Kaplitzstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2956,
+      "lng": 14.2873
+    },
+    "line": [
+      "L045",
+      " L046"
+    ],
+    "type": "station",
+    "name": "Karl-Wiser-Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2956,
+      "lng": 14.2873
+    },
+    "line": [
+      "L045",
+      " L046"
+    ],
+    "type": "station",
+    "name": "Karl-Wiser-Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3235,
+      "lng": 14.2833
+    },
+    "line": [
+      "L038",
+      " L102"
+    ],
+    "type": "station",
+    "name": "Karlhof"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3235,
+      "lng": 14.2833
+    },
+    "line": [
+      "L038",
+      " L102"
+    ],
+    "type": "station",
+    "name": "Karlhof"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3235,
+      "lng": 14.2833
+    },
+    "line": [
+      "L012",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Karlhof"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3213,
+      "lng": 14.2815
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Karlhofschule"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3213,
+      "lng": 14.2815
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Karlhofschule"
+  },
+  {
+    "geoloc": {
+      "lat": 48.245,
+      "lng": 14.3392
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Kaserne"
+  },
+  {
+    "geoloc": {
+      "lat": 48.245,
+      "lng": 14.3392
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Kaserne"
+  },
+  {
+    "geoloc": {
+      "lat": 48.245,
+      "lng": 14.3392
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Kaserne"
+  },
+  {
+    "geoloc": {
+      "lat": 48.245,
+      "lng": 14.3392
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Kaserne"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3277,
+      "lng": 14.3339
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Katzbach"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3277,
+      "lng": 14.3339
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Katzbach"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3277,
+      "lng": 14.3306
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Katzbachweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3277,
+      "lng": 14.3306
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Katzbachweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2772,
+      "lng": 14.2769
+    },
+    "line": [
+      "L012"
+    ],
+    "type": "station",
+    "name": "Keferfeld"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2772,
+      "lng": 14.2769
+    },
+    "line": [
+      "L012"
+    ],
+    "type": "station",
+    "name": "Keferfeld"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3024,
+      "lng": 14.2827
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Klammstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3024,
+      "lng": 14.2827
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Klammstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2481,
+      "lng": 14.3709
+    },
+    "line": [
+      "L105"
+    ],
+    "type": "station",
+    "name": "Klettfischerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2481,
+      "lng": 14.3709
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Klettfischerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2481,
+      "lng": 14.3709
+    },
+    "line": [
+      "L011",
+      " L019",
+      " L105"
+    ],
+    "type": "station",
+    "name": "Klettfischerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3155,
+      "lng": 14.2804
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Knabenseminarstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3155,
+      "lng": 14.2804
+    },
+    "line": [
+      "L033",
+      " L038"
+    ],
+    "type": "station",
+    "name": "Knabenseminarstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3155,
+      "lng": 14.2804
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Knabenseminarstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3155,
+      "lng": 14.2804
+    },
+    "line": [
+      "L033",
+      " L038"
+    ],
+    "type": "station",
+    "name": "Knabenseminarstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2823,
+      "lng": 14.3208
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Kokerei"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2823,
+      "lng": 14.3208
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Kokerei"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2739,
+      "lng": 14.2987
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Kopernikusstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2739,
+      "lng": 14.2987
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Kopernikusstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2852,
+      "lng": 14.2859
+    },
+    "line": [
+      "L012",
+      " L027"
+    ],
+    "type": "station",
+    "name": "Kudlichstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2852,
+      "lng": 14.2859
+    },
+    "line": [
+      "L012"
+    ],
+    "type": "station",
+    "name": "Kudlichstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2852,
+      "lng": 14.2859
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Kudlichstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2732,
+      "lng": 14.3026
+    },
+    "line": [
+      "L103"
+    ],
+    "type": "station",
+    "name": "Lamprechtgang"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3108,
+      "lng": 14.2772
+    },
+    "line": [
+      "L003"
+    ],
+    "type": "station",
+    "name": "Landgutstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3108,
+      "lng": 14.2772
+    },
+    "line": [
+      "L050"
+    ],
+    "type": "station",
+    "name": "Landgutstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3108,
+      "lng": 14.2772
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Landgutstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3108,
+      "lng": 14.2772
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Landgutstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2674,
+      "lng": 14.2855
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Landwiedstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2674,
+      "lng": 14.2855
+    },
+    "line": [
+      "L012",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Landwiedstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2674,
+      "lng": 14.2855
+    },
+    "line": [
+      "L012"
+    ],
+    "type": "station",
+    "name": "Landwiedstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2674,
+      "lng": 14.2855
+    },
+    "line": [
+      "L025",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Landwiedstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2533,
+      "lng": 14.2884
+    },
+    "line": [
+      "L011",
+      " L012",
+      " L019",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Laskahofstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2533,
+      "lng": 14.2884
+    },
+    "line": [
+      "L011",
+      " L012",
+      " L019",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Laskahofstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2533,
+      "lng": 14.2884
+    },
+    "line": [
+      "L041",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Laskahofstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2533,
+      "lng": 14.2884
+    },
+    "line": [
+      "L041",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Laskahofstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3097,
+      "lng": 14.2991
+    },
+    "line": [
+      "L012",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Lederergasse"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3097,
+      "lng": 14.2991
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Lederergasse"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3097,
+      "lng": 14.2991
+    },
+    "line": [
+      "L012",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Lederergasse"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3097,
+      "lng": 14.2991
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Lederergasse"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3365,
+      "lng": 14.3035
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Leitenbauerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3365,
+      "lng": 14.3035
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Leitenbauerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2381,
+      "lng": 14.3241
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Lenkstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2918,
+      "lng": 14.2729
+    },
+    "line": [
+      "L045",
+      " L046"
+    ],
+    "type": "station",
+    "name": "Leondinger Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3176,
+      "lng": 14.2833
+    },
+    "line": [
+      "L033",
+      " L038"
+    ],
+    "type": "station",
+    "name": "Leonfeldner Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3176,
+      "lng": 14.2833
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Leonfeldner Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3176,
+      "lng": 14.2833
+    },
+    "line": [
+      "L038"
+    ],
+    "type": "station",
+    "name": "Leonfeldner Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2355,
+      "lng": 14.3512
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Lettner"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2355,
+      "lng": 14.3512
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Lettner"
+  },
+  {
+    "geoloc": {
+      "lat": 48.32,
+      "lng": 14.2895
+    },
+    "line": [
+      "L012",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Linke Brückenstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.32,
+      "lng": 14.2895
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Linke Brückenstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.32,
+      "lng": 14.2895
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Linke Brückenstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.32,
+      "lng": 14.2895
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Linke Brückenstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.32,
+      "lng": 14.2895
+    },
+    "line": [
+      "L012",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Linke Brückenstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.32,
+      "lng": 14.2895
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Linke Brückenstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2694,
+      "lng": 14.2976
+    },
+    "line": [
+      "L103"
+    ],
+    "type": "station",
+    "name": "Lißfeld"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2932,
+      "lng": 14.3134
+    },
+    "line": [
+      "L025",
+      " L027"
+    ],
+    "type": "station",
+    "name": "Lonstorferplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2932,
+      "lng": 14.3134
+    },
+    "line": [
+      "L025",
+      " L027"
+    ],
+    "type": "station",
+    "name": "Lonstorferplatz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3078,
+      "lng": 14.2963
+    },
+    "line": [
+      "L026",
+      " L027"
+    ],
+    "type": "station",
+    "name": "Lüfteneggerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3078,
+      "lng": 14.2963
+    },
+    "line": [
+      "L026",
+      " L027"
+    ],
+    "type": "station",
+    "name": "Lüfteneggerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3419,
+      "lng": 14.3043
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Maderleithnerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3419,
+      "lng": 14.3043
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Maderleithnerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3366,
+      "lng": 14.3009
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Magdalenastraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3366,
+      "lng": 14.3009
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Magdalenastraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3384,
+      "lng": 14.3003
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Marienberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3384,
+      "lng": 14.3003
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Marienberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3005,
+      "lng": 14.2877
+    },
+    "line": [
+      "L045",
+      " L046"
+    ],
+    "type": "station",
+    "name": "Mariendom"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3005,
+      "lng": 14.2877
+    },
+    "line": [
+      "L045",
+      " L046"
+    ],
+    "type": "station",
+    "name": "Mariendom"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2387,
+      "lng": 14.2835
+    },
+    "line": [
+      "L071"
+    ],
+    "type": "station",
+    "name": "Mayrhoferstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2387,
+      "lng": 14.2835
+    },
+    "line": [
+      "L073"
+    ],
+    "type": "station",
+    "name": "Mayrhoferstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2704,
+      "lng": 14.2825
+    },
+    "line": [
+      "L012"
+    ],
+    "type": "station",
+    "name": "Meggauerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2704,
+      "lng": 14.2825
+    },
+    "line": [
+      "L012"
+    ],
+    "type": "station",
+    "name": "Meggauerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3076,
+      "lng": 14.3259
+    },
+    "line": [
+      "L017",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Metzstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3076,
+      "lng": 14.3259
+    },
+    "line": [
+      "L017"
+    ],
+    "type": "station",
+    "name": "Metzstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2526,
+      "lng": 14.3007
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Mitterweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2526,
+      "lng": 14.3007
+    },
+    "line": [
+      "L012"
+    ],
+    "type": "station",
+    "name": "Mitterweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2526,
+      "lng": 14.3007
+    },
+    "line": [
+      "L011",
+      " L012",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Mitterweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3009,
+      "lng": 14.2906
+    },
+    "line": [
+      "L045",
+      " L046",
+      " L070",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Mozartkreuzung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3009,
+      "lng": 14.2906
+    },
+    "line": [
+      "L001",
+      " L002",
+      " L003"
+    ],
+    "type": "station",
+    "name": "Mozartkreuzung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3009,
+      "lng": 14.2906
+    },
+    "line": [
+      "L001",
+      " L002",
+      " L003"
+    ],
+    "type": "station",
+    "name": "Mozartkreuzung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3009,
+      "lng": 14.2906
+    },
+    "line": [
+      "L045",
+      " L046",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Mozartkreuzung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3024,
+      "lng": 14.2963
+    },
+    "line": [
+      "L045",
+      " L046",
+      " L070",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Mozartschule"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3119,
+      "lng": 14.2796
+    },
+    "line": [
+      "L003",
+      " L033",
+      " L050"
+    ],
+    "type": "station",
+    "name": "Mühlkreisbahnhof"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3119,
+      "lng": 14.2796
+    },
+    "line": [
+      "L003",
+      " L033",
+      " L050"
+    ],
+    "type": "station",
+    "name": "Mühlkreisbahnhof"
+  },
+  {
+    "geoloc": {
+      "lat": 48.278,
+      "lng": 14.3085
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Muldenstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2715,
+      "lng": 14.2987
+    },
+    "line": [
+      "L103"
+    ],
+    "type": "station",
+    "name": "Müller-Guttenbrunn-Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2388,
+      "lng": 14.3317
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Müllerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2388,
+      "lng": 14.3317
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Müllerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3061,
+      "lng": 14.2929
+    },
+    "line": [
+      "L026",
+      " L027"
+    ],
+    "type": "station",
+    "name": "Museumstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3061,
+      "lng": 14.2929
+    },
+    "line": [
+      "L026",
+      " L027"
+    ],
+    "type": "station",
+    "name": "Museumstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2988,
+      "lng": 14.3281
+    },
+    "line": [
+      "L017",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Nebingerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2988,
+      "lng": 14.3281
+    },
+    "line": [
+      "L017"
+    ],
+    "type": "station",
+    "name": "Nebingerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2497,
+      "lng": 14.2939
+    },
+    "line": [
+      "L071"
+    ],
+    "type": "station",
+    "name": "Neubauzeile"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2497,
+      "lng": 14.2939
+    },
+    "line": [
+      "L073"
+    ],
+    "type": "station",
+    "name": "Neubauzeile"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2538,
+      "lng": 14.2823
+    },
+    "line": [
+      "L043",
+      " L070"
+    ],
+    "type": "station",
+    "name": "Neue Heimat"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2538,
+      "lng": 14.2823
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Neue Heimat"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2538,
+      "lng": 14.2823
+    },
+    "line": [
+      "L043",
+      " L070"
+    ],
+    "type": "station",
+    "name": "Neue Heimat"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2732,
+      "lng": 14.3143
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Neue Welt"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2732,
+      "lng": 14.3143
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Neue Welt"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2559,
+      "lng": 14.3569
+    },
+    "line": [
+      "L105"
+    ],
+    "type": "station",
+    "name": "Neufelderstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2559,
+      "lng": 14.3569
+    },
+    "line": [
+      "L002",
+      ""
+    ],
+    "type": "station",
+    "name": "Neufelderstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2559,
+      "lng": 14.3569
+    },
+    "line": [
+      "L002",
+      ""
+    ],
+    "type": "station",
+    "name": "Neufelderstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2559,
+      "lng": 14.3569
+    },
+    "line": [
+      "L105"
+    ],
+    "type": "station",
+    "name": "Neufelderstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2723,
+      "lng": 14.308
+    },
+    "line": [
+      "L103"
+    ],
+    "type": "station",
+    "name": "Neuhoferstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2496,
+      "lng": 14.285
+    },
+    "line": [
+      "L041",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Neupeint"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2496,
+      "lng": 14.285
+    },
+    "line": [
+      "L041",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Neupeint"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3125,
+      "lng": 14.2732
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Nißlstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3125,
+      "lng": 14.2732
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Nißlstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2875,
+      "lng": 14.2951
+    },
+    "line": [
+      "L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Novaragasse"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2875,
+      "lng": 14.2951
+    },
+    "line": [
+      "L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Novaragasse"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3068,
+      "lng": 14.2845
+    },
+    "line": [
+      "L026",
+      " L192"
+    ],
+    "type": "station",
+    "name": "Obere Donaulände"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3068,
+      "lng": 14.2845
+    },
+    "line": [
+      "L026",
+      " L192"
+    ],
+    "type": "station",
+    "name": "Obere Donaulände"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3199,
+      "lng": 14.2566
+    },
+    "line": [
+      "L050"
+    ],
+    "type": "station",
+    "name": "Oberschableder"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3199,
+      "lng": 14.2566
+    },
+    "line": [
+      "L050"
+    ],
+    "type": "station",
+    "name": "Oberschableder"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3378,
+      "lng": 14.2932
+    },
+    "line": [
+      "L038"
+    ],
+    "type": "station",
+    "name": "Obersteg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3378,
+      "lng": 14.2932
+    },
+    "line": [
+      "L038"
+    ],
+    "type": "station",
+    "name": "Obersteg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2646,
+      "lng": 14.277
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Oed"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2466,
+      "lng": 14.3705
+    },
+    "line": [
+      "L011",
+      " L019",
+      " L105"
+    ],
+    "type": "station",
+    "name": "Oidener Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2466,
+      "lng": 14.3705
+    },
+    "line": [
+      "L011",
+      " L019",
+      " L105"
+    ],
+    "type": "station",
+    "name": "Oidener Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3225,
+      "lng": 14.2853
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Ontlstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3225,
+      "lng": 14.2853
+    },
+    "line": [
+      "L012",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Ontlstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3225,
+      "lng": 14.2853
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Ontlstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3225,
+      "lng": 14.2853
+    },
+    "line": [
+      "L012",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Ontlstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3116,
+      "lng": 14.2969
+    },
+    "line": [
+      "L012",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Parkbad"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3116,
+      "lng": 14.2969
+    },
+    "line": [
+      "L012",
+      " L025"
+    ],
+    "type": "station",
+    "name": "Parkbad"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3073,
+      "lng": 14.3093
+    },
+    "line": [
+      "L046",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Paul-Hahn-Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3073,
+      "lng": 14.3093
+    },
+    "line": [
+      "L046",
+      " L070",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Paul-Hahn-Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3042,
+      "lng": 14.3074
+    },
+    "line": [
+      "L045"
+    ],
+    "type": "station",
+    "name": "Paula-Scherleitner-Weg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3042,
+      "lng": 14.3074
+    },
+    "line": [
+      "L045"
+    ],
+    "type": "station",
+    "name": "Paula-Scherleitner-Weg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2372,
+      "lng": 14.3295
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Pergheimerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2372,
+      "lng": 14.3295
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Pergheimerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3164,
+      "lng": 14.3022
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Petzoldstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3164,
+      "lng": 14.3022
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Petzoldstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3158,
+      "lng": 14.2898
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Peuerbachstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3158,
+      "lng": 14.2898
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Peuerbachstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2418,
+      "lng": 14.3698
+    },
+    "line": [
+      "L011",
+      " L019",
+      " L105"
+    ],
+    "type": "station",
+    "name": "Pichling"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2418,
+      "lng": 14.3698
+    },
+    "line": [
+      "L011",
+      " L019",
+      " L105"
+    ],
+    "type": "station",
+    "name": "Pichling"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2417,
+      "lng": 14.3786
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Pichlinger See"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2417,
+      "lng": 14.3786
+    },
+    "line": [
+      "L105"
+    ],
+    "type": "station",
+    "name": "Pichlinger See"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2417,
+      "lng": 14.3786
+    },
+    "line": [
+      "L105"
+    ],
+    "type": "station",
+    "name": "Pichlinger See"
+  },
+  {
+    "geoloc": {
+      "lat": 48.313,
+      "lng": 14.3128
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Posthofstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.313,
+      "lng": 14.3128
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Posthofstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3248,
+      "lng": 14.2589
+    },
+    "line": [
+      "L050"
+    ],
+    "type": "station",
+    "name": "Pöstlingberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.323,
+      "lng": 14.2588
+    },
+    "line": [
+      "L050"
+    ],
+    "type": "station",
+    "name": "Pöstlingberg Schlössl"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3006,
+      "lng": 14.3103
+    },
+    "line": [
+      "L017",
+      " L019",
+      " L045",
+      " L070",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Prinz-Eugen-Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3006,
+      "lng": 14.3103
+    },
+    "line": [
+      "L017",
+      " L019",
+      " L045",
+      " L073",
+      " L077"
+    ],
+    "type": "station",
+    "name": "Prinz-Eugen-Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3056,
+      "lng": 14.3168
+    },
+    "line": [
+      "L017"
+    ],
+    "type": "station",
+    "name": "Pummererstr."
+  },
+  {
+    "geoloc": {
+      "lat": 48.3056,
+      "lng": 14.3168
+    },
+    "line": [
+      "L017",
+      " L027",
+      " L070",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Pummererstr."
+  },
+  {
+    "geoloc": {
+      "lat": 48.3056,
+      "lng": 14.3168
+    },
+    "line": [
+      "L027",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Pummererstr."
+  },
+  {
+    "geoloc": {
+      "lat": 48.2508,
+      "lng": 14.3116
+    },
+    "line": [
+      "L001"
+    ],
+    "type": "station",
+    "name": "Rädlerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2508,
+      "lng": 14.3116
+    },
+    "line": [
+      "L001"
+    ],
+    "type": "station",
+    "name": "Rädlerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2416,
+      "lng": 14.3736
+    },
+    "line": [
+      "L011",
+      " L019",
+      " L105"
+    ],
+    "type": "station",
+    "name": "Raffelstettner Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2416,
+      "lng": 14.3736
+    },
+    "line": [
+      "L011",
+      " L019",
+      " L105"
+    ],
+    "type": "station",
+    "name": "Raffelstettner Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2695,
+      "lng": 14.2892
+    },
+    "line": [
+      "L025",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Ramsauerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2695,
+      "lng": 14.2892
+    },
+    "line": [
+      "L025",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Ramsauerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2887,
+      "lng": 14.274
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Regerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2887,
+      "lng": 14.274
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Regerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2543,
+      "lng": 14.3648
+    },
+    "line": [
+      "L105"
+    ],
+    "type": "station",
+    "name": "Reiherweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2543,
+      "lng": 14.3648
+    },
+    "line": [
+      "L105"
+    ],
+    "type": "station",
+    "name": "Reiherweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2583,
+      "lng": 14.3212
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Remise Kleinmünchen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2583,
+      "lng": 14.3212
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Remise Kleinmünchen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3164,
+      "lng": 14.2716
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Riesenhof"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2922,
+      "lng": 14.302
+    },
+    "line": [
+      "L027",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Rilkestraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2922,
+      "lng": 14.302
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Rilkestraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2869,
+      "lng": 14.2776
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Robert-Stolz-Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2869,
+      "lng": 14.2776
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Robert-Stolz-Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2361,
+      "lng": 14.3318
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Rohrauerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2361,
+      "lng": 14.3318
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Rohrauerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3023,
+      "lng": 14.2732
+    },
+    "line": [
+      "L026"
+    ],
+    "type": "station",
+    "name": "Römerbergschule"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3023,
+      "lng": 14.2732
+    },
+    "line": [
+      "L026"
+    ],
+    "type": "station",
+    "name": "Römerbergschule"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3111,
+      "lng": 14.2828
+    },
+    "line": [
+      "L001",
+      " L002",
+      " L003",
+      " L050"
+    ],
+    "type": "station",
+    "name": "Rudolfstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3111,
+      "lng": 14.2828
+    },
+    "line": [
+      "L001",
+      " L002",
+      " L003",
+      " L050"
+    ],
+    "type": "station",
+    "name": "Rudolfstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3111,
+      "lng": 14.2828
+    },
+    "line": [
+      "L033",
+      " L038",
+      " L102"
+    ],
+    "type": "station",
+    "name": "Rudolfstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.298,
+      "lng": 14.2762
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Salesianumweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.298,
+      "lng": 14.2762
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Salesianumweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2559,
+      "lng": 14.2872
+    },
+    "line": [
+      "L012",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Salzburger Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2559,
+      "lng": 14.2872
+    },
+    "line": [
+      "L012",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Salzburger Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2518,
+      "lng": 14.3228
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Saporoshjestraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2518,
+      "lng": 14.3228
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Saporoshjestraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2518,
+      "lng": 14.3228
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Saporoshjestraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2518,
+      "lng": 14.3228
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Saporoshjestraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3139,
+      "lng": 14.2607
+    },
+    "line": [
+      "L050"
+    ],
+    "type": "station",
+    "name": "Schableder"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3139,
+      "lng": 14.2607
+    },
+    "line": [
+      "L050"
+    ],
+    "type": "station",
+    "name": "Schableder"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2686,
+      "lng": 14.3164
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Scharlinz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2686,
+      "lng": 14.3164
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Scharlinz"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3391,
+      "lng": 14.3027
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Schatzweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3391,
+      "lng": 14.3027
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Schatzweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3438,
+      "lng": 14.3005
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Schickenedersteig"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3438,
+      "lng": 14.3005
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Schickenedersteig"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3179,
+      "lng": 14.3099
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Schiffswerft"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3179,
+      "lng": 14.3099
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Schiffswerft"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3135,
+      "lng": 14.3003
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Schlachthof"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3135,
+      "lng": 14.3003
+    },
+    "line": [
+      "L027"
+    ],
+    "type": "station",
+    "name": "Schlachthof"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2499,
+      "lng": 14.3016
+    },
+    "line": [
+      "L012"
+    ],
+    "type": "station",
+    "name": "Schörgenhubbad"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2499,
+      "lng": 14.3016
+    },
+    "line": [
+      "L012"
+    ],
+    "type": "station",
+    "name": "Schörgenhubbad"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2368,
+      "lng": 14.3354
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Schückbauerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2368,
+      "lng": 14.3354
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Schückbauerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3018,
+      "lng": 14.2766
+    },
+    "line": [
+      "L026"
+    ],
+    "type": "station",
+    "name": "Schulertal"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3018,
+      "lng": 14.2766
+    },
+    "line": [
+      "L026"
+    ],
+    "type": "station",
+    "name": "Schulertal"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3321,
+      "lng": 14.3178
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Schumpeterstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3321,
+      "lng": 14.3178
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Schumpeterstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2469,
+      "lng": 14.3809
+    },
+    "line": [
+      "L105"
+    ],
+    "type": "station",
+    "name": "Schwaigaustraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2469,
+      "lng": 14.3809
+    },
+    "line": [
+      "L105"
+    ],
+    "type": "station",
+    "name": "Schwaigaustraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2533,
+      "lng": 14.2838
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Seidelbastweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2533,
+      "lng": 14.2838
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Seidelbastweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2367,
+      "lng": 14.3253
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Sennweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2462,
+      "lng": 14.2867
+    },
+    "line": [
+      "L041",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Siemensstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2462,
+      "lng": 14.2867
+    },
+    "line": [
+      "L041",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Siemensstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2555,
+      "lng": 14.3225
+    },
+    "line": [
+      "L001",
+      " L002",
+      " L011",
+      " L018",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Simonystraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2555,
+      "lng": 14.3225
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Simonystraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2555,
+      "lng": 14.3225
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Simonystraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2555,
+      "lng": 14.3225
+    },
+    "line": [
+      "L001",
+      " L002",
+      " L011",
+      " L018",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Simonystraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2555,
+      "lng": 14.3225
+    },
+    "line": [
+      "L018"
+    ],
+    "type": "station",
+    "name": "Simonystraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2547,
+      "lng": 14.3574
+    },
+    "line": [
+      "L105"
+    ],
+    "type": "station",
+    "name": "Siriusweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2563,
+      "lng": 14.3644
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "solarCity"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2573,
+      "lng": 14.3612
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "solarCity-Zentrum"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2573,
+      "lng": 14.3612
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "solarCity-Zentrum"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2573,
+      "lng": 14.3612
+    },
+    "line": [
+      "L105"
+    ],
+    "type": "station",
+    "name": "solarCity-Zentrum"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2573,
+      "lng": 14.3612
+    },
+    "line": [
+      "L105"
+    ],
+    "type": "station",
+    "name": "solarCity-Zentrum"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3256,
+      "lng": 14.3011
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Sonnbergerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3256,
+      "lng": 14.3011
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Sonnbergerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2878,
+      "lng": 14.2876
+    },
+    "line": [
+      "L012",
+      " L027"
+    ],
+    "type": "station",
+    "name": "Sophiengutstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2878,
+      "lng": 14.2876
+    },
+    "line": [
+      "L012",
+      " L027"
+    ],
+    "type": "station",
+    "name": "Sophiengutstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2764,
+      "lng": 14.3011
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Spallerhof"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2764,
+      "lng": 14.3011
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "Spallerhof"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3105,
+      "lng": 14.273
+    },
+    "line": [
+      "L050"
+    ],
+    "type": "station",
+    "name": "Spazgasse"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2506,
+      "lng": 14.3717
+    },
+    "line": [
+      "L105"
+    ],
+    "type": "station",
+    "name": "Spechtweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2506,
+      "lng": 14.3717
+    },
+    "line": [
+      "L105"
+    ],
+    "type": "station",
+    "name": "Spechtweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2469,
+      "lng": 14.3043
+    },
+    "line": [
+      "L012"
+    ],
+    "type": "station",
+    "name": "Sportanlage Auwiesen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2469,
+      "lng": 14.3043
+    },
+    "line": [
+      "L012"
+    ],
+    "type": "station",
+    "name": "Sportanlage Auwiesen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3342,
+      "lng": 14.3006
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "St. Magdalena"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3342,
+      "lng": 14.3006
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "St. Magdalena"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3342,
+      "lng": 14.3006
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "St. Magdalena"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3342,
+      "lng": 14.3006
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "St. Magdalena"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3074,
+      "lng": 14.257
+    },
+    "line": [
+      "L192"
+    ],
+    "type": "station",
+    "name": "St. Margarethen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3074,
+      "lng": 14.257
+    },
+    "line": [
+      "L026"
+    ],
+    "type": "station",
+    "name": "St. Margarethen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3074,
+      "lng": 14.257
+    },
+    "line": [
+      "L192"
+    ],
+    "type": "station",
+    "name": "St. Margarethen"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2909,
+      "lng": 14.2758
+    },
+    "line": [
+      "L017",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Stadion"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2909,
+      "lng": 14.2758
+    },
+    "line": [
+      "L017",
+      " L019",
+      " L026",
+      " L046"
+    ],
+    "type": "station",
+    "name": "Stadion"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2909,
+      "lng": 14.2758
+    },
+    "line": [
+      "L046"
+    ],
+    "type": "station",
+    "name": "Stadion"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2695,
+      "lng": 14.2926
+    },
+    "line": [
+      "L025",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Stadlerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2695,
+      "lng": 14.2926
+    },
+    "line": [
+      "L025",
+      " L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Stadlerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2648,
+      "lng": 14.3395
+    },
+    "line": [
+      "L018"
+    ],
+    "type": "station",
+    "name": "Stahlbau"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2648,
+      "lng": 14.3395
+    },
+    "line": [
+      "L018"
+    ],
+    "type": "station",
+    "name": "Stahlbau"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2758,
+      "lng": 14.3358
+    },
+    "line": [
+      "L018"
+    ],
+    "type": "station",
+    "name": "Stahlwerk"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2758,
+      "lng": 14.3358
+    },
+    "line": [
+      "L018"
+    ],
+    "type": "station",
+    "name": "Stahlwerk"
+  },
+  {
+    "geoloc": {
+      "lat": 48.327,
+      "lng": 14.3037
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Steg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.327,
+      "lng": 14.3037
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Steg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.327,
+      "lng": 14.3037
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Steg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2689,
+      "lng": 14.3017
+    },
+    "line": [
+      "L103"
+    ],
+    "type": "station",
+    "name": "Stiblerweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2967,
+      "lng": 14.3131
+    },
+    "line": [
+      "L045"
+    ],
+    "type": "station",
+    "name": "Stieglbauernstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2507,
+      "lng": 14.3812
+    },
+    "line": [
+      "L105"
+    ],
+    "type": "station",
+    "name": "Südpark"
+  },
+  {
+    "geoloc": {
+      "lat": 48.304,
+      "lng": 14.2881
+    },
+    "line": [
+      "L001",
+      " L002",
+      " L003"
+    ],
+    "type": "station",
+    "name": "Taubenmarkt"
+  },
+  {
+    "geoloc": {
+      "lat": 48.304,
+      "lng": 14.2881
+    },
+    "line": [
+      "L001",
+      " L002",
+      " L003"
+    ],
+    "type": "station",
+    "name": "Taubenmarkt"
+  },
+  {
+    "geoloc": {
+      "lat": 48.304,
+      "lng": 14.2881
+    },
+    "line": [
+      "L026",
+      " L027",
+      " L192"
+    ],
+    "type": "station",
+    "name": "Taubenmarkt"
+  },
+  {
+    "geoloc": {
+      "lat": 48.304,
+      "lng": 14.2881
+    },
+    "line": [
+      "L026",
+      " L027",
+      " L192"
+    ],
+    "type": "station",
+    "name": "Taubenmarkt"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3205,
+      "lng": 14.2797
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Teistlergutstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3205,
+      "lng": 14.2797
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Teistlergutstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3041,
+      "lng": 14.2826
+    },
+    "line": [
+      "L026"
+    ],
+    "type": "station",
+    "name": "Theater"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3041,
+      "lng": 14.2826
+    },
+    "line": [
+      "L026",
+      " L027"
+    ],
+    "type": "station",
+    "name": "Theater"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3039,
+      "lng": 14.2842
+    },
+    "line": [
+      "L192"
+    ],
+    "type": "station",
+    "name": "Theatergasse"
+  },
+  {
+    "geoloc": {
+      "lat": 48.311,
+      "lng": 14.2652
+    },
+    "line": [
+      "L050"
+    ],
+    "type": "station",
+    "name": "Tiergarten"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3049,
+      "lng": 14.2672
+    },
+    "line": [
+      "L026",
+      " L192"
+    ],
+    "type": "station",
+    "name": "Turmleitenweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3049,
+      "lng": 14.2672
+    },
+    "line": [
+      "L026",
+      " L192"
+    ],
+    "type": "station",
+    "name": "Turmleitenweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2904,
+      "lng": 14.2974
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Unionkreuzung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2904,
+      "lng": 14.2974
+    },
+    "line": [
+      "L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Unionkreuzung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2904,
+      "lng": 14.2974
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Unionkreuzung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2904,
+      "lng": 14.2974
+    },
+    "line": [
+      "L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Unionkreuzung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3348,
+      "lng": 14.3203
+    },
+    "line": [
+      "L077"
+    ],
+    "type": "station",
+    "name": "Universität"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3348,
+      "lng": 14.3203
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Universität"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3348,
+      "lng": 14.3203
+    },
+    "line": [
+      "L077"
+    ],
+    "type": "station",
+    "name": "Universität"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3348,
+      "lng": 14.3203
+    },
+    "line": [
+      "L077"
+    ],
+    "type": "station",
+    "name": "Universität Nord"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2799,
+      "lng": 14.2814
+    },
+    "line": [
+      "L003"
+    ],
+    "type": "station",
+    "name": "Untergaumberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2799,
+      "lng": 14.2814
+    },
+    "line": [
+      "L012"
+    ],
+    "type": "station",
+    "name": "Untergaumberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2799,
+      "lng": 14.2814
+    },
+    "line": [
+      "L012"
+    ],
+    "type": "station",
+    "name": "Untergaumberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2799,
+      "lng": 14.2814
+    },
+    "line": [
+      "L003"
+    ],
+    "type": "station",
+    "name": "Untergaumberg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3242,
+      "lng": 14.2935
+    },
+    "line": [
+      "L101"
+    ],
+    "type": "station",
+    "name": "Urnenhain Urfahr"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3234,
+      "lng": 14.2959
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Urnenhainweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3234,
+      "lng": 14.2959
+    },
+    "line": [
+      "L033"
+    ],
+    "type": "station",
+    "name": "Urnenhainweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3025,
+      "lng": 14.2695
+    },
+    "line": [
+      "L026"
+    ],
+    "type": "station",
+    "name": "Vergeinerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3025,
+      "lng": 14.2695
+    },
+    "line": [
+      "L026"
+    ],
+    "type": "station",
+    "name": "Vergeinerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2763,
+      "lng": 14.3125
+    },
+    "line": [
+      "L025"
+    ],
+    "type": "station",
+    "name": "VOEST-Alpine"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2763,
+      "lng": 14.3125
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "VOEST-Alpine"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2763,
+      "lng": 14.3125
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "VOEST-Alpine"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2763,
+      "lng": 14.3125
+    },
+    "line": [
+      "L018",
+      " L025"
+    ],
+    "type": "station",
+    "name": "VOEST-Alpine"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2763,
+      "lng": 14.3125
+    },
+    "line": [
+      "L103"
+    ],
+    "type": "station",
+    "name": "VOEST-Alpine"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3015,
+      "lng": 14.2959
+    },
+    "line": [
+      "L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Volksfeststraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2944,
+      "lng": 14.2912
+    },
+    "line": [
+      "L012",
+      " L017",
+      " L019",
+      " L045",
+      " L046",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Volksgarten"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2944,
+      "lng": 14.2912
+    },
+    "line": [
+      "L012",
+      " L017",
+      " L019",
+      " L045",
+      " L046",
+      " L070",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Volksgarten"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2811,
+      "lng": 14.2938
+    },
+    "line": [
+      "L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Wagner-Jauregg-Weg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2811,
+      "lng": 14.2938
+    },
+    "line": [
+      "L041",
+      " L043"
+    ],
+    "type": "station",
+    "name": "Wagner-Jauregg-Weg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2652,
+      "lng": 14.318
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Wahringerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2652,
+      "lng": 14.318
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Wahringerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2904,
+      "lng": 14.2876
+    },
+    "line": [
+      "L012",
+      " L017",
+      " L019",
+      " L027",
+      " L045",
+      " L046"
+    ],
+    "type": "station",
+    "name": "Waldeggstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2904,
+      "lng": 14.2876
+    },
+    "line": [
+      "L012",
+      " L017",
+      " L019",
+      " L027",
+      " L045",
+      " L046"
+    ],
+    "type": "station",
+    "name": "Waldeggstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.234,
+      "lng": 14.3566
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Waldesruh"
+  },
+  {
+    "geoloc": {
+      "lat": 48.274,
+      "lng": 14.2801
+    },
+    "line": [
+      "L012"
+    ],
+    "type": "station",
+    "name": "Wallseerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.274,
+      "lng": 14.2801
+    },
+    "line": [
+      "L012"
+    ],
+    "type": "station",
+    "name": "Wallseerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2411,
+      "lng": 14.3281
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Wambacher Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2411,
+      "lng": 14.3281
+    },
+    "line": [
+      "L002"
+    ],
+    "type": "station",
+    "name": "Wambacher Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2401,
+      "lng": 14.3244
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Wambachsiedlung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2401,
+      "lng": 14.3244
+    },
+    "line": [
+      "L104"
+    ],
+    "type": "station",
+    "name": "Wambachsiedlung"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2477,
+      "lng": 14.2649
+    },
+    "line": [
+      "L043"
+    ],
+    "type": "station",
+    "name": "Wattstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2477,
+      "lng": 14.2649
+    },
+    "line": [
+      "L043"
+    ],
+    "type": "station",
+    "name": "Wattstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2539,
+      "lng": 14.2788
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Wegscheider Straße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2514,
+      "lng": 14.3624
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Weikhartweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2514,
+      "lng": 14.3624
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Weikhartweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2704,
+      "lng": 14.2965
+    },
+    "line": [
+      "L103"
+    ],
+    "type": "station",
+    "name": "Weinheberstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2612,
+      "lng": 14.3356
+    },
+    "line": [
+      "L018"
+    ],
+    "type": "station",
+    "name": "Werksposten 1"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2612,
+      "lng": 14.3356
+    },
+    "line": [
+      "L018"
+    ],
+    "type": "station",
+    "name": "Werksposten 1"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2806,
+      "lng": 14.309
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "WIFI/Linz AG"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2806,
+      "lng": 14.309
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "WIFI/Linz AG"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3132,
+      "lng": 14.2871
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Wildbergstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3132,
+      "lng": 14.2871
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Wildbergstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.295,
+      "lng": 14.3102
+    },
+    "line": [
+      "L025",
+      " L027"
+    ],
+    "type": "station",
+    "name": "Wimhölzelstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.295,
+      "lng": 14.3102
+    },
+    "line": [
+      "L025",
+      " L027"
+    ],
+    "type": "station",
+    "name": "Wimhölzelstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2615,
+      "lng": 14.3197
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Wimmerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2615,
+      "lng": 14.3197
+    },
+    "line": [
+      "L001",
+      " L002"
+    ],
+    "type": "station",
+    "name": "Wimmerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2443,
+      "lng": 14.2909
+    },
+    "line": [
+      "L071"
+    ],
+    "type": "station",
+    "name": "Winetzhammerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2443,
+      "lng": 14.2909
+    },
+    "line": [
+      "L073"
+    ],
+    "type": "station",
+    "name": "Winetzhammerstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.342,
+      "lng": 14.2931
+    },
+    "line": [
+      "L038"
+    ],
+    "type": "station",
+    "name": "Winklerbrücke"
+  },
+  {
+    "geoloc": {
+      "lat": 48.342,
+      "lng": 14.2931
+    },
+    "line": [
+      "L038"
+    ],
+    "type": "station",
+    "name": "Winklerbrücke"
+  },
+  {
+    "geoloc": {
+      "lat": 48.3324,
+      "lng": 14.2701
+    },
+    "line": [
+      "L102"
+    ],
+    "type": "station",
+    "name": "Worathweg"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2538,
+      "lng": 14.3141
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Zeppelinstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2538,
+      "lng": 14.3141
+    },
+    "line": [
+      "L011",
+      " L019"
+    ],
+    "type": "station",
+    "name": "Zeppelinstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2517,
+      "lng": 14.3658
+    },
+    "line": [
+      "L105"
+    ],
+    "type": "station",
+    "name": "Ziererfeldstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2517,
+      "lng": 14.3658
+    },
+    "line": [
+      "L105"
+    ],
+    "type": "station",
+    "name": "Ziererfeldstraße"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2432,
+      "lng": 14.2801
+    },
+    "line": [
+      "L041",
+      " L071"
+    ],
+    "type": "station",
+    "name": "Zöhrdorferfeld"
+  },
+  {
+    "geoloc": {
+      "lat": 48.2432,
+      "lng": 14.2801
+    },
+    "line": [
+      "L041",
+      " L073"
+    ],
+    "type": "station",
+    "name": "Zöhrdorferfeld"
+  }
+]
